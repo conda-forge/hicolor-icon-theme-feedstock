@@ -17,7 +17,6 @@ theme specification.
 The specification is availible at:
 http://www.freedesktop.org/standards/icon-theme-spec/
 
-
 Current build status
 ====================
 
