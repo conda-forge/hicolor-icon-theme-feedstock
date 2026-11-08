@@ -15,7 +15,7 @@ build:
   # it would be nice if this were noarch: generic because it just installs some files,
   # but we want them in $PREFIX on Unix and %LIBRARY_PREFIX% on Windows
   # noarch: generic
-  number: 3
+  number: 4
 
 requirements:
   build:
